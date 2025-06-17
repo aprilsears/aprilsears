@@ -4,7 +4,7 @@
 **Backend:** Node.js, Express<br>
 **Database:** SQL<br>
 **Tools:** Git, GitHub, VS Code, npm<br>
-**Currently Learning:** React<br>
+**Currently Learning:** Vue <br>
 
 # 🔍 Continued Learning Goals: <br>
 
