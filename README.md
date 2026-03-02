@@ -1,10 +1,10 @@
 # 💻 Tech Stack: <br>
 
-**Frontend:** HTML5, CSS3, JavaScript <br>
+**Frontend:** HTML5, CSS3, JavaScript, VUE <br>
 **Backend:** Node.js, Express<br>
 **Database:** SQL<br>
 **Tools:** Git, GitHub, VS Code, npm<br>
-**Currently Learning:** Vue <br>
+**Currently Learning:** Vercel<br>
 
 # 🔍 Continued Learning Goals: <br>
 
