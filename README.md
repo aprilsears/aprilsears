@@ -1,24 +1,47 @@
-# 💻 Tech Stack: <br>
+# 👋 Hi, I'm April
 
-**Frontend:** HTML5, CSS3, JavaScript, VUE <br>
-**Backend:** Node.js, Express<br>
-**Database:** SQL<br>
-**Tools:** Git, GitHub, VS Code, npm<br>
-**Currently Learning:** Vercel<br>
+Front-end web developer and founder of **[A Web of Code](https://awebofcode.com)**, a boutique web development studio building custom websites and web applications for small businesses. Code Kentucky bootcamp graduate (2024), based in Corbin, KY.
 
-# 🔍 Continued Learning Goals: <br>
+# 💻 Tech Stack
 
-🌱 Expanding my knowledge in full-stack development<br>
-🔭 Working on personal projects to strengthen my portfolio<br>
+**Frontend:** Vue 3, React, JavaScript, HTML5, CSS3, Tailwind CSS<br>
+**Backend:** Node.js, Express, Vercel serverless functions<br>
+**Database & Auth:** SQL, Supabase<br>
+**Payments:** Stripe<br>
+**Testing:** Vitest, Vue Test Utils<br>
+**Tools:** Git, GitHub, VS Code, Vite, npm<br>
+**Deployment:** Vercel<br>
+
+# 🚀 Current Work
+
+- 🌐 Running **A Web of Code**, a freelance studio for small business websites
+- 🔐 Built a client portal with Supabase authentication and protected routes
+- 💳 Integrated Stripe checkout and billing portal through serverless functions
+- ⚡ Static prerendering, per-page SEO metadata, and security headers for fast, discoverable sites
+- 🧪 Adding automated tests with Vitest
+
+# 🗂️ Featured Projects
+
+- **[A Web of Code](https://awebofcode.com)**: Studio website with portfolio, client portal, and payments (Vue 3, Vite, Tailwind, Supabase, Stripe, Vercel)
+- **Chronically Well**: Built in both JS and Vue
+- **Book Store App**
+- **Movie Watchlist App**
+- **Mock Store**
+- **Dashboard**
+- **Personal Portfolio & Blog**
+
+# 🔍 Continued Learning Goals
+
+🌱 Deepening my full-stack skills: authentication, payments, testing, and performance<br>
+🔭 Building real-world projects for clients and my portfolio<br>
 👯 Looking to collaborate on open source projects<br>
-🤔 Exploring opportunities in web development<br>
+🤔 Open to web development opportunities<br>
 
- # 📫 Let's Connect!<br> 
+# 📫 Let's Connect!
 
-> ## LinkedIn: www.linkedin.com/in/april-sears <br>
+> ## LinkedIn: [linkedin.com/in/april-sears](https://www.linkedin.com/in/april-sears)
 
-> ## Email: aprilnsears@gmail.com<br> 
-<!---
-aprilsears/aprilsears is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> ## Website: [awebofcode.com](https://awebofcode.com)
+
+> ## Email: aprilnsears@gmail.com
+
